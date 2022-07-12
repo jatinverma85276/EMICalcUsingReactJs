@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EMICalcUsingReactJs/static/css/main.7b7568c1.css",
+    "main.js": "/EMICalcUsingReactJs/static/js/main.7e7754d0.js",
+    "index.html": "/EMICalcUsingReactJs/index.html",
+    "main.7b7568c1.css.map": "/EMICalcUsingReactJs/static/css/main.7b7568c1.css.map",
+    "main.7e7754d0.js.map": "/EMICalcUsingReactJs/static/js/main.7e7754d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b7568c1.css",
+    "static/js/main.7e7754d0.js"
+  ]
+}
